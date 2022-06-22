@@ -1,0 +1,6 @@
+/.vs/
+/FeedingFrenzyExplorer/bin/Debug/*
+/FeedingFrenzyExplorer/bin/Release/*
+/FeedingFrenzyExplorer/obj/Debug/*
+/FeedingFrenzyExplorer/obj/Release/*
+/FeedingFrenzyExplorer/publish/*
