@@ -106,8 +106,6 @@ namespace FeedingFrenzyExplorer
                 var hashResult = md5Instance.ComputeHash(stream);
 
                 return hashResult;
-                ////***I did some formatting here, you may not want to remove the dashes, or use lower case depending on your application
-                //return BitConverter.ToString(hashResult).Replace("-", "").ToLowerInvariant();
             }
         }
     }
